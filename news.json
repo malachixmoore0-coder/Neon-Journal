@@ -1,0 +1,359 @@
+{
+ "updatedAt": "2026-10-24T23:40:00Z",
+ "source": "https://www.forexfactory.com/calendar",
+ "days": {
+  "2026-10-26": {
+   "date": "2026-10-26",
+   "events": [
+    {
+     "actual": "",
+     "affects": [
+      "GC"
+     ],
+     "cur": "EUR",
+     "forecast": "90.0",
+     "impact": "medium",
+     "name": "German ifo Business Climate",
+     "previous": "89.9",
+     "time": "05:00",
+     "why": "A weak reading softens the euro, which lifts the dollar slightly and can weigh on gold. Little direct effect on NQ or ES."
+    }
+   ],
+   "headline": "Quiet US calendar, clean technical day",
+   "plan": "Normal size at the open. Take profits faster after 10:30 if volume dries up.",
+   "source": "https://www.forexfactory.com/calendar?week=next",
+   "summary": "No US data on the schedule. The only notable release is Germany's ifo survey before the US open. Price should trade off levels and order flow, but with no catalyst, momentum can fade mid-morning.",
+   "updatedAt": "2026-10-24T23:40:00Z",
+   "verdict": "GO"
+  },
+  "2026-10-27": {
+   "date": "2026-10-27",
+   "events": [
+    {
+     "actual": "",
+     "affects": [
+      "NQ",
+      "ES"
+     ],
+     "cur": "USD",
+     "forecast": "",
+     "impact": "low",
+     "name": "ADP Weekly Employment Change",
+     "previous": "18.5K",
+     "time": "08:15",
+     "why": "Weekly jobs read. Usually a small pre-market blip unless it is far off the prior week."
+    },
+    {
+     "actual": "",
+     "affects": [
+      "NQ",
+      "ES",
+      "GC"
+     ],
+     "cur": "USD",
+     "forecast": "0.6%",
+     "impact": "high",
+     "name": "Core Durable Goods Orders m/m",
+     "previous": "0.2%",
+     "time": "08:30",
+     "why": "A strong number signals business spending is healthy. That is good for growth but can push yields up, which pressures NQ more than ES. A miss tends to lift gold."
+    },
+    {
+     "actual": "",
+     "affects": [
+      "NQ",
+      "ES"
+     ],
+     "cur": "USD",
+     "forecast": "1.8%",
+     "impact": "medium",
+     "name": "Durable Goods Orders m/m",
+     "previous": "-0.1%",
+     "time": "08:30",
+     "why": "The headline includes volatile aircraft orders, so traders weight the core number more. Read the two together."
+    },
+    {
+     "actual": "",
+     "affects": [
+      "NQ",
+      "ES",
+      "GC"
+     ],
+     "cur": "USD",
+     "forecast": "80.5",
+     "impact": "high",
+     "name": "CB Consumer Confidence",
+     "previous": "81.9",
+     "time": "10:00",
+     "why": "Consumer mood drives spending expectations. A big miss can spark a quick risk-off flush in ES and NQ and a bid in gold. A beat helps stocks."
+    },
+    {
+     "actual": "",
+     "affects": [
+      "ES"
+     ],
+     "cur": "USD",
+     "forecast": "649K",
+     "impact": "medium",
+     "name": "New Home Sales",
+     "previous": "684K",
+     "time": "10:00",
+     "why": "Released alongside confidence, so it adds to the 10:00 volatility. Housing weakness reads as rate-sensitive slowdown."
+    }
+   ],
+   "headline": "Durable goods at 8:30, consumer confidence at 10:00",
+   "plan": "No entries 8:25\u20138:40 or 9:55\u201310:05. Trade the move that holds after each release.",
+   "source": "https://www.forexfactory.com/calendar?week=next",
+   "summary": "Two US releases bracket the open. Durable goods sets the pre-market tone, then consumer confidence at 10:00 can flip the first trend of the day.",
+   "updatedAt": "2026-10-24T23:40:00Z",
+   "verdict": "CAUTION"
+  },
+  "2026-10-28": {
+   "date": "2026-10-28",
+   "events": [
+    {
+     "actual": "",
+     "affects": [
+      "ES"
+     ],
+     "cur": "USD",
+     "forecast": "-130.8B",
+     "impact": "low",
+     "name": "Goods Trade Balance",
+     "previous": "-132.1B",
+     "time": "08:30",
+     "why": "Feeds into GDP estimates. Rarely moves index futures on its own."
+    },
+    {
+     "actual": "",
+     "affects": [
+      "ES"
+     ],
+     "cur": "USD",
+     "forecast": "-0.3M",
+     "impact": "medium",
+     "name": "Crude Oil Inventories",
+     "previous": "-3.1M",
+     "time": "10:30",
+     "why": "Moves oil directly. A big oil swing can nudge inflation expectations and energy stocks in ES, but NQ usually ignores it."
+    },
+    {
+     "actual": "",
+     "affects": [
+      "NQ",
+      "ES",
+      "GC"
+     ],
+     "cur": "USD",
+     "forecast": "4.00%",
+     "impact": "high",
+     "name": "Federal Funds Rate",
+     "previous": "4.00%",
+     "time": "14:00",
+     "why": "Expected to hold. The surprise risk is in the statement wording. Hawkish language lifts yields and the dollar, pushing NQ, ES and gold down. Dovish language does the opposite."
+    },
+    {
+     "actual": "",
+     "affects": [
+      "NQ",
+      "ES",
+      "GC"
+     ],
+     "cur": "USD",
+     "forecast": "",
+     "impact": "high",
+     "name": "FOMC Statement",
+     "previous": "",
+     "time": "14:00",
+     "why": "Traders compare it line by line with the last statement. The first spike is often faded within minutes."
+    },
+    {
+     "actual": "",
+     "affects": [
+      "NQ",
+      "ES",
+      "GC"
+     ],
+     "cur": "USD",
+     "forecast": "",
+     "impact": "high",
+     "name": "FOMC Press Conference",
+     "previous": "",
+     "time": "14:30",
+     "why": "The Fed chair's answers on future cuts can reverse the 2:00 move entirely. Expect whipsaws for the full hour."
+    }
+   ],
+   "headline": "FOMC decision at 2:00 PM, morning is tradeable",
+   "plan": "Trade the morning with smaller targets. Stay flat from 1:45 PM until after the press conference ends.",
+   "source": "https://www.forexfactory.com/calendar?week=next",
+   "summary": "The Fed rate decision and press conference dominate the day. Mornings before FOMC are often slow and range-bound as traders wait. The real volatility comes at 2:00 and again during the 2:30 press conference.",
+   "updatedAt": "2026-10-24T23:40:00Z",
+   "verdict": "CAUTION"
+  },
+  "2026-10-29": {
+   "date": "2026-10-29",
+   "events": [
+    {
+     "actual": "",
+     "affects": [
+      "NQ",
+      "ES",
+      "GC"
+     ],
+     "cur": "USD",
+     "forecast": "3.2%",
+     "impact": "high",
+     "name": "Advance GDP q/q",
+     "previous": "2.2%",
+     "time": "08:30",
+     "why": "A big beat can mean the Fed has less reason to cut, which lifts yields and weighs on NQ. A miss raises slowdown fears and lifts gold."
+    },
+    {
+     "actual": "",
+     "affects": [
+      "NQ",
+      "ES",
+      "GC"
+     ],
+     "cur": "USD",
+     "forecast": "0.3%",
+     "impact": "high",
+     "name": "Core PCE Price Index m/m",
+     "previous": "0.2%",
+     "time": "08:30",
+     "why": "The Fed's preferred inflation measure. Hotter than 0.3% hurts NQ and ES and usually drops gold as yields rise. A cooler print is the bullish case for both."
+    },
+    {
+     "actual": "",
+     "affects": [
+      "NQ",
+      "ES"
+     ],
+     "cur": "USD",
+     "forecast": "198K",
+     "impact": "medium",
+     "name": "Unemployment Claims",
+     "previous": "194K",
+     "time": "08:30",
+     "why": "A jump in claims signals labor weakness. That supports rate-cut hopes but can also read as recession risk."
+    },
+    {
+     "actual": "",
+     "affects": [
+      "ES"
+     ],
+     "cur": "USD",
+     "forecast": "0.6%",
+     "impact": "medium",
+     "name": "Personal Spending m/m",
+     "previous": "0.9%",
+     "time": "08:30",
+     "why": "Released with PCE. Strong spending supports earnings but keeps inflation pressure alive."
+    },
+    {
+     "actual": "",
+     "affects": [
+      "GC"
+     ],
+     "cur": "EUR",
+     "forecast": "2.65%",
+     "impact": "high",
+     "name": "ECB Main Refinancing Rate",
+     "previous": "2.65%",
+     "time": "09:15",
+     "why": "Moves the euro and the dollar. A dovish ECB strengthens the dollar, which tends to push gold lower."
+    },
+    {
+     "actual": "",
+     "affects": [
+      "GC",
+      "ES"
+     ],
+     "cur": "EUR",
+     "forecast": "",
+     "impact": "high",
+     "name": "ECB Press Conference",
+     "previous": "",
+     "time": "09:45",
+     "why": "Overlaps the US cash open, adding cross-currents right when NQ and ES get their first real volume."
+    }
+   ],
+   "headline": "GDP, Core PCE and ECB, the day after FOMC",
+   "plan": "Skip the open. If you trade, wait until after 10:15 when the ECB press conference has been absorbed, and size down.",
+   "source": "https://www.forexfactory.com/calendar?week=next",
+   "summary": "The heaviest morning of the week. GDP and the Fed's preferred inflation gauge both hit at 8:30, the ECB decides at 9:15, and markets are still digesting yesterday's Fed. Spreads and slippage spike, and early moves often reverse.",
+   "updatedAt": "2026-10-24T23:40:00Z",
+   "verdict": "SIT OUT"
+  },
+  "2026-10-30": {
+   "date": "2026-10-30",
+   "events": [
+    {
+     "actual": "",
+     "affects": [
+      "NQ",
+      "ES",
+      "GC"
+     ],
+     "cur": "USD",
+     "forecast": "0.8%",
+     "impact": "high",
+     "name": "Employment Cost Index q/q",
+     "previous": "0.9%",
+     "time": "08:30",
+     "why": "Wage growth feeds inflation. A hot print raises yields and pressures NQ and gold. A soft one helps both."
+    },
+    {
+     "actual": "",
+     "affects": [
+      "NQ",
+      "ES"
+     ],
+     "cur": "USD",
+     "forecast": "54.8",
+     "impact": "medium",
+     "name": "Chicago PMI",
+     "previous": "58.8",
+     "time": "09:45",
+     "why": "Lands 15 minutes after the open, so it can kick off or kill the opening drive."
+    },
+    {
+     "actual": "",
+     "affects": [
+      "NQ",
+      "ES",
+      "GC"
+     ],
+     "cur": "USD",
+     "forecast": "",
+     "impact": "low",
+     "name": "FOMC Member Daly Speaks",
+     "previous": "",
+     "time": "12:00",
+     "why": "Post-FOMC Fed commentary. Usually minor unless she breaks from the chair's message."
+    },
+    {
+     "actual": "",
+     "affects": [
+      "NQ",
+      "ES",
+      "GC"
+     ],
+     "cur": "USD",
+     "forecast": "",
+     "impact": "low",
+     "name": "FOMC Member Musalem Speaks",
+     "previous": "",
+     "time": "12:30",
+     "why": "Same as above. Headlines can nudge midday price."
+    }
+   ],
+   "headline": "Employment Cost Index at 8:30, month-end Friday",
+   "plan": "Wait for the first 5-minute candle to close after 9:30. Watch for unusual moves into the afternoon from month-end flows.",
+   "source": "https://www.forexfactory.com/calendar?week=next",
+   "summary": "The wage-inflation number hits pre-market, then Chicago PMI shortly after the open. It is also the last trading day of the month, so rebalancing flows can push prices around late in the day.",
+   "updatedAt": "2026-10-24T23:40:00Z",
+   "verdict": "CAUTION"
+  }
+ }
+}
